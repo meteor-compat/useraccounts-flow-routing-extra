@@ -9,7 +9,7 @@
 Package.describe({
   name: 'useraccounts:flow-routing-extra',
   summary: 'UserAccounts package providing routes configuration capability via ostrio:flow-router-extra.',
-  version: '1.0.0',
+  version: '1.1.0',
   git: 'https://github.com/meteor-compat/useraccounts-flow-routing-extra',
 });
 
